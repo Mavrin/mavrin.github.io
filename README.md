@@ -1,5 +1,7 @@
 https://mavrin.github.io
 
+https://mavrin.github.io/ci
+
 https://docs.google.com/presentation/d/17UHmhNAqZ1Ss8B6oOyK8eytMTh-4jCbmsVmixBqRNT0/edit?usp=sharing
 
 https://mavrin.github.io/pres-be-first/
